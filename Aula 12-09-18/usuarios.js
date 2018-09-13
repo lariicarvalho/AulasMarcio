@@ -1,0 +1,26 @@
+const usuarios=[
+	{
+		id:'1',
+		nome:'Afronesio',
+		chave:'12345',
+		email:'afro@tidinha.com.br'
+	},
+	{
+		id:'2',
+		nome:'Mario',
+		chave:'12548',
+		email:'mario@gmail.com'
+	},
+	{
+		id:'3',
+		nome:'Carla',
+		chave:'15489',
+		email:'carlinha@gmail.com'
+	},
+	{
+		id:'4',
+		nome:'Roberto',
+		chave:'16588',
+		email:'roberto@gmail.com'
+	}
+]
